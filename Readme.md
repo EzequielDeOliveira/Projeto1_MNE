@@ -18,6 +18,8 @@ Para esse experimento, os dados do mês de setembro sobre os novos casos de COVI
 
 ![image](https://user-images.githubusercontent.com/37127457/136646673-97864668-1f42-47fd-994d-68b2a4bb337e.png)
 
+Neste experimento foram feitas predições para datas conhecidas para obter parâmetros de comparação, mas esse mesmo código pode ser expandido para predições futuras.
+
 ## Referências
 - [Ajuste de curva](https://www.ufrgs.br/reamat/CalculoNumerico/livro-py/adc-ajuste_de_uma_reta.html)
 - [Dados covid](https://github.com/wcota/covid19br)
